@@ -30,7 +30,7 @@ end
 
 def sorted_matrix
   combined_produce = [
-  ORGANIC_PRODUCE.sort
+  ORGANIC_PRODUCE.sort,
   CONVENTIONAL_PRODUCE.sort
   ]
   return combined_produce
